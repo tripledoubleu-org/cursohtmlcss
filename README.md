@@ -1,10 +1,10 @@
-# Curso HTML e CSS
+# Curso HTML + CSS
 
 Curso dedicado a duas das linguagens fundamentais do desenvolvimento web: HTML e CSS.
 
 Ferramentas necessárias:
-- [Chrome](https://www.google.pt/intl/pt-PT/chrome/?brand=CHBD&gcli=Cj0KCQjwxNT8BRD9ARIsAJ8S5xZdsWEpVSZFqi8Ak-_BS4c-vmRaPYdXohWgLOLuauGrLYATuaR268caAi4_EALw_wcB&gclsrc=aw.ds);
-- [Visual Studio Code](https://code.visualstudio.com/).
+- [Chrome](https://www.google.pt/intl/pt-PT/chrome/?brand=CHBD&gcli=Cj0KCQjwxNT8BRD9ARIsAJ8S5xZdsWEpVSZFqi8Ak-_BS4c-vmRaPYdXohWgLOLuauGrLYATuaR268caAi4_EALw_wcB&gclsrc=aw.ds)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Introdução ao HTML
 
