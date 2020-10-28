@@ -16,6 +16,9 @@ Curso dedicado a duas linguagens fundamentais do desenvolvimento web: HTML e CSS
 - [Sintaxe do CSS](#sintaxe-do-css)
 - [Adicionar o CSS](#adicionar-o-css)
 - [Selectores Classe e ID](#selectores-classe-e-id)
+- [Principais Propriedades](#principais-propriedades)
+– [Unidades](#unidades)
+– [Media Queries](#media-queries)
 
 ## Introdução ao HTML
 
@@ -289,6 +292,100 @@ O selector "id" é semelhante ao selector "classe" mas deve ser utilizado para s
 <div id="rodape">
     Rodapé
 </div>
+`````
+
+## Principais Propriedades
+
+### Fontes e texto
+- `font-family` altera a fonte;
+- `font-size` define a altura da fonte;
+- `font-weight` define o peso da fonte;
+- `line-height` define a altura da linha de texto;
+- `text-align` – define o alinhamento do texto (left, right, center);
+- `text-decoration` – adiciona elementos decorativos ao texto;
+- `text-transform` – define a capitalização do texto;
+- `letter-spacing` – espaço entre os caracteres.
+
+### Box-model
+- `width` define a largura da caixa;
+- `height` define a altura da caixa;
+- `margin` define o espaço à volta da caixa;
+- `padding` define o espaço entre o limite da caixa e o seu conteúdo;
+- `border` define a borda da caixa;
+
+
+### Posições
+A propriedade posição define o modo como um elemento é posicionado.
+
+- `position: static;` posição relativa ao flow da página (posição por defeito);
+- `position: relative;` posição relativa à sua normal posição;
+- `position: absolute;`  posição relativa ao elemento pai;
+- `position: fixed;`  posição relativa à viewport;
+- `position: sticky;` posição relativa à posição do scroll;
+
+
+## Unidades
+
+### Absolutas
+
+As unidades absolutas têm sempre o mesmo tamanho independemente do tamanho da janela ou do elemento pai. São utilizadas quando os projectos não precisam de ser responsíveis, isto é, que não se adaptem a diferentes tamanhos de ecrã.
+
+#### Principais unidades absolutas
+Unidades Absolutas | Nome | Descrição 
+--- | --- | ---
+px | Pixeis | 1px = 1/96th of 1in
+pt | Points | 1pt = 1/72th of 1in
+
+### Relativas
+As unidades relativas têm tamanhos escaláveis consoante o tamanho da janela ou do elemento pai. Apesar de serem um pouco mais difíceis de ser controladas, estas unidades são muito úteis para projectos que tenham de funcionar em diferentes formatados de ecrã.
+
+#### Principais unidades relativas
+Unidades Relativas | Descrição 
+--- | ---
+% | Percentagem relativa ao valor da propriedade no elemento pai
+em | Unidade relativa ao tamanho da fonte do elemento
+rem | Unidade relativa ao tamanho da fonte da root (html)
+vw | Unidade relativa à largura da viewport. 1vw = 1/100 da largura da viewport
+vh | Unidade relativa à altura da viewport. 1vh = 1/100 da altura da viewport
+vmax | Unidade relativa à dimensão máxima da viewport. 1vmax = 1/100 da dimensão máxima da viewport
+vmin | Unidade relativa à dimensão minima da viewport. 1vmin = 1/100 da dimensão minima da viewport
+
+## Media Queries
+As media queries servem para definir diferentes regras consoante o tipo de media ao captarem as capacidade do dispositivo. 
+Assim podem identificar os seguintes valores:
+- largura e altura da viewport;
+- largura e altura do device;
+- a orientação (horizontal ou vertical);
+- a resolução.
+
+### Sintaxe das Media Queries
+````
+media not|only mediatype and (expressions) {
+  CSS-Code;
+}
+````
+
+Valor | Descrição
+--- | ---
+all | Todos os tipos de media
+screen | Para computadores, tablets, telemóveis, etc..
+print | Para impressoras
+speech | Para leitores de ecrãs
+
+### CSS para diferentes tamanhos de ecrãs
+`````
+// ecrãs até 320px
+@media screen and (max-width: 320px) {
+ h1 {
+  font-size: 20px;
+ }
+}
+// ecrãs até 980px
+@media screen and (min-width: 980px) {
+ h1 {
+   font-size: 15px;
+ }
+}
 `````
 
 
