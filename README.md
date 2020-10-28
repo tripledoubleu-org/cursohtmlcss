@@ -244,3 +244,50 @@ Exemplo se o ficheiro CSS (style.css) estiver na mesma pasta que o ficheiro HTML
     <link rel="stylesheet" href="style.css">
 <head>
 ````
+
+
+## Selectores Classes e IDs
+Além das referências das tags podemos identificar os elementos de uma página pela sua "classe" ou "id".
+
+### Classes
+O selector "classe" seleciona todos os elementos HTML que têm o atributo `class=` com o valor referido antecido por um `.`. As classes identificam um grupo de elementos e um elemento pode ter mais do que uma classe.
+
+`````
+.azul {
+  background: blue;
+}
+`````
+`````
+<div class="azul">
+  Elemento com a class "azul"
+</div>
+<div class="azul">
+  Elemento com a class "azul"
+</div>
+<div class="azul">
+  Elemento com a class "azul"
+</div>
+`````
+
+### IDs
+O selector "id" é semelhante ao selector "classe" mas deve ser utilizado para seleccionar um elemento único que têm o atributo `id=` com o valor referido antecido por um `#`. Cada elemento apenas pode ter um "id". Normalmente os "ids" são utilizados para identificar a estrutura de uma página.
+
+`````
+<div id="cabecalho">
+    Cabeçalho
+</div>
+<div id="noticias">
+    Notícias
+</div>
+<div id="destaques">
+    Destaques
+</div>
+<div id="agenda">
+    Agenda
+</div>
+<div id="rodape">
+    Rodapé
+</div>
+`````
+
+
