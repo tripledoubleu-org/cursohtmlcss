@@ -171,3 +171,66 @@ As imagens são definidas pela tag `<img>` que recebe o atributo `src=''` que co
 <img width='500' src='<!-- URL da Imagem -->'>
 <img width='500' src='<!-- caminho relativo -->'>
 ````
+
+# CSS
+
+## Introdução ao CSS
+CSS (Cascading Style Sheets) é uma extensão do HTML que permite manipular os estilos de um documento ao dizer como elementos devem aparecer no browser.
+
+Deste modo, o CSS define o design e permite que o website seja responsivo (que se adapte aos diferentes tamanhos de ecrã).
+
+## Sintaxe do CSS
+Uma regra em CSS é definida por um selector e por um bloco de declarações. Cada declaração é composta por uma propriedade e por um valor atribuído.
+
+````
+selector {
+    propriedade1: valor1;
+    propriedade2: valor2;
+}
+````
+
+## Adicionar o CSS
+Podemos adicionar o CSS de três formas diferentes:
+- inline
+- interno
+- externo (preferencial)
+
+### Inline
+Directamente numa tag HTML através do atributo `style=""`.
+
+Este método não é aconselhável pois, por uma questão de organização, devemos separar o código HTML do CSS.
+
+````
+<p style="color: blue">Texto azul</p>
+````
+
+### Interno
+Através da tag `<style>` colocada no `<head>`, que permite que seja utilizada a sintaxe CSS dentro de um documento HTML.
+
+````
+<html>
+  <head>
+    <style>
+      p {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Texto azul</p>
+  </body>
+</html>
+````
+
+### Externo
+Através de um ficheiro externo com a extensão `.css`, que permite separar o código CSS do documento HTML. 
+
+O fichero CSS deve ser colocado na pasta do website e chamado pelo HTML através da tag `<link>` colocada no `<head>`. A tag `<link>` recebe o atributo `href=""`que recebe o caminho relativo do ficheiro CSS.
+
+Exemplo se o ficheiro CSS (style.css) estiver na mesma pasta que o ficheiro HTML:
+
+````
+<head>
+    <link rel="stylesheet" href="style.css">
+<head>
+````
