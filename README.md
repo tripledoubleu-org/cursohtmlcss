@@ -2,7 +2,7 @@
 
 Curso dedicado a duas linguagens fundamentais do desenvolvimento web: HTML e CSS.
 
-Ferramentas necessárias:
+### Ferramentas necessárias:
 - [Chrome](https://www.google.pt/intl/pt-PT/chrome/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
@@ -10,11 +10,11 @@ Ferramentas necessárias:
 - [Introdução ao HTML](#introducao-ao-html)
 - [Sintaxe do HTML](#sintaxe-do-html)
 - [Estrutura de um documento](#estrutura-de-um-documento)
-– [Primeira página](#primeira-pagina)
-– [Tags essenciais](#tags-essencias)
-– [Introdução ao CSS](#introducao-ao-css)
-– [Sintaxe do CSS](#sintaxe-do-css)
-– [Adicionar o CSS](#adicionar-o-css)
+- [Primeira página](#primeira-pagina)
+- [Tags essenciais](#tags-essencias)
+- [Introdução ao CSS](#introducao-ao-css)
+- [Sintaxe do CSS](#sintaxe-do-css)
+- [Adicionar o CSS](#adicionar-o-css)
 
 ## Introdução ao HTML
 
