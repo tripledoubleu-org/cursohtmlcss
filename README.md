@@ -1,9 +1,9 @@
 # Curso HTML + CSS
 
-Curso dedicado a duas das linguagens fundamentais do desenvolvimento web: HTML e CSS.
+Curso dedicado a duas linguagens fundamentais do desenvolvimento web: HTML e CSS.
 
 Ferramentas necessárias:
-- [Chrome](https://www.google.pt/intl/pt-PT/chrome/?brand=CHBD&gcli=Cj0KCQjwxNT8BRD9ARIsAJ8S5xZdsWEpVSZFqi8Ak-_BS4c-vmRaPYdXohWgLOLuauGrLYATuaR268caAi4_EALw_wcB&gclsrc=aw.ds)
+- [Chrome](https://www.google.pt/intl/pt-PT/chrome/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Introdução ao HTML
@@ -18,3 +18,19 @@ O HTML é a linguagem base do desenvolvimento web, sendo que todas as outras com
 O HTML não é considerado uma linguagem de programação pois não é capaz de instruir o computador para performar operações.
 
 Um ficheiro HTML é identificado pela extensão `.html`.
+
+## Sintaxe do HTML
+
+### Tags
+
+Um documento HTML é estruturado por tags, que são os elementos que indicam como a página deve ser renderizada pelo browser. 
+As tags encontram-se dentro de um sinal de menor (<) e de maior (>) e, na sua maioria, têm uma marcação de início e outra de fim. Em alguns casos, apenas tem uma marcação que assinala o ínicio e o fim.
+
+É a partir das tags que os browsers conseguem renderizar ou interpretar as páginas de forma correcta.
+
+````
+<nomeTag>Conteúdo</nomeTag>
+<nomeTag />
+````
+Referências de todas as tags:
+https://www.w3schools.com/TAGS/default.ASP
