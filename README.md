@@ -387,5 +387,20 @@ speech | Para leitores de ecrãs
  }
 }
 `````
+## Layouts
+O desenho de um layout é definido por uma grelha ou um grupo de grelhas que servem de guias para o posicionamento dos diversos elementos numa página.
+
+### Técnicas de Layout
+- Propriedade de Float
+– Flexbox
+– Grid
+– Frameworks
+
+
+## Bibliografia
+- [https://www.w3schools.com/html/]
+- [https://www.w3schools.com/css/]
+
+
 
 
