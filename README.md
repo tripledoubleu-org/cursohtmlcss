@@ -34,3 +34,140 @@ As tags encontram-se dentro de um sinal de menor (<) e de maior (>) e, na sua ma
 ````
 Referências de todas as tags:
 https://www.w3schools.com/TAGS/default.ASP
+
+### Atributos
+
+Algumas tags aceitam atributos que permitem adicionar propriedades.
+
+````
+<nomeTag atributo=”valor”>Conteúdo</nomeTag>
+````
+
+### Árvore de elementos
+
+Uma página HTML é uma estrutura que se organiza em árvore sendo que as tags podem ter pais e filhos.
+
+````
+<tagPai>
+    <tagFilho>
+    </tagFilho>
+</tagPai>
+````
+
+## Estrutura de um documento
+
+Um documento HTML começa com o que chamamos de estrutura base. Esta estrutura é compostas por:
+- Definição do documento (Doctype)
+- Head 
+- Body
+
+````
+<!DOCTYPE html><!-- definição do documento -->
+ 
+<html>
+   <head>
+       <!-- No head (cabeça) estão as informações que não são para ser vistas pelo utilizador -->
+   </head>
+ 
+   <body>
+       <!-- No body (corpo) estão as informações que são para ser vistas pelo utilizador -->
+   </body>
+</html>
+````
+
+### Definição do documento (Doctype)
+Este elemento serve para informar o browser de que se trata de um documento com código HTML. É um elemento obrigatório e deve sempre estar na primeira linha. No passado era um código longo mas na versão 5 do HTML foi simplificado para `<!DOCTYPE html>`
+
+### Head
+No `<head>` estão as informações que não são para ser vistas pelo utilizador. Nele estão os metadados, links para outros arquivos e scripts. 
+
+### Body
+No `<body>`  encontram-se as informações para serem lidas pelo utilizador, que pode ser em formato de texto, imagem, vídeo, áudio ou códigos embutidos.
+
+
+## Primeira página
+
+````
+<!DOCTYPE html>
+ 
+<html>
+   <head>
+       <title>A  minha primeira página</title> <!-- título do documento -->
+       <meta charset="utf-8"> <!-- codificação da língua -->
+   </head>
+ 
+   <body>
+       Olá mundo!
+   </body>
+</html>
+````
+
+## Tags essenciais
+
+### Títulos e subtítulos
+
+Os títulos e subtítulos são identificados pelas tags `<h1>` até à `<h6>`. `<h1>` o mais importante e `<h6>` menos importante.
+
+````
+<h1>Título 1</h1>
+<h2>Título 2</h2>
+<h3>Título 3</h3>
+<h4>Título 4</h4>
+<h5>Título 5</h5>
+<h6>Título 6</h6>
+````
+
+### Parágrafos
+Os parágrafos são identificados pela tag `<p>`.
+
+````
+<p>Isto é um parágrafo.</p>
+```` 
+
+### Lista não ordenada
+Uma lista não ordenada é identificada pela tag `<ul>` e cada item pela tag `<li>`. 
+Numa lista não ordenada cada item é antecedido por um símbolo bullet.
+
+````
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+````
+
+### Lista ordenada
+Uma lista ordenada é identificada pela tag `<ol>` e cada item pela tag `<li>`. 
+Numa lista ordenada cada item é numerado por ordem.
+
+````
+<ol>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ol>
+````
+
+### Blocos
+Os blocos são elementos que começam sempre numa nova linha e ocupam toda a largura possível.
+
+````
+<header>Header</header>
+<div>Block</div>
+<footer>Footer</footer>
+````
+
+### Links
+O links são criados utilizando a tag `<a>` que recebe o atributo `href=''` que contém o URL.
+
+````
+<a href='<!-- URL -->'>Texto que aparece</a>
+````
+
+### Imagens
+As imagens são definidas pela tag `<img>` que recebe o atributo `src=''` que contém o URL da imagem ou o caminho relativo, caso a imagem esteja no nosso servidor.
+
+````
+<img width='500' src='<!-- URL da Imagem -->'>
+<img width='500' src='<!-- caminho relativo -->'>
+````
