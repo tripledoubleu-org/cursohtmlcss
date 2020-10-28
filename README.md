@@ -1,6 +1,6 @@
-# Curso HTML + CSS
+# Curso básico HTML + CSS
 
-Curso dedicado a duas linguagens fundamentais do desenvolvimento web: HTML e CSS.
+Curso dedicado aos princípios básicos de duas linguagens fundamentais do desenvolvimento web: HTML e CSS.
 
 ### Ferramentas necessárias:
 - [Chrome](https://www.google.pt/intl/pt-PT/chrome/)
@@ -18,7 +18,9 @@ Curso dedicado a duas linguagens fundamentais do desenvolvimento web: HTML e CSS
 - [Selectores Classe e ID](#selectores-classe-e-id)
 - [Principais Propriedades](#principais-propriedades)
 – [Unidades](#unidades)
-– [Media Queries](#media-queries)
+- [Media Queries](#media-queries)
+- [Layouts](#layouts)
+- [Bibliografia](#bibliografia)
 
 ## Introdução ao HTML
 
