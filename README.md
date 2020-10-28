@@ -15,6 +15,7 @@ Curso dedicado a duas linguagens fundamentais do desenvolvimento web: HTML e CSS
 - [Introdução ao CSS](#introducao-ao-css)
 - [Sintaxe do CSS](#sintaxe-do-css)
 - [Adicionar o CSS](#adicionar-o-css)
+- [Selectores Classe e ID](#selectores-classe-e-id)
 
 ## Introdução ao HTML
 
@@ -246,7 +247,7 @@ Exemplo se o ficheiro CSS (style.css) estiver na mesma pasta que o ficheiro HTML
 ````
 
 
-## Selectores Classes e IDs
+## Selectores Classe e ID
 Além das referências das tags podemos identificar os elementos de uma página pela sua "classe" ou "id".
 
 ### Classes
