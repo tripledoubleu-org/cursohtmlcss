@@ -298,7 +298,14 @@ O selector "id" é semelhante ao selector "classe" mas deve ser utilizado para s
 
 ## Principais Propriedades
 
-### Fontes e texto
+### Box-model
+- `width` define a largura da caixa;
+- `height` define a altura da caixa;
+- `margin` define o espaço à volta da caixa;
+- `padding` define o espaço entre o limite da caixa e o seu conteúdo;
+- `border` define a borda da caixa;
+
+### Formatacão de texto
 - `font-family` altera a fonte;
 - `font-size` define a altura da fonte;
 - `font-weight` define o peso da fonte;
@@ -307,14 +314,6 @@ O selector "id" é semelhante ao selector "classe" mas deve ser utilizado para s
 - `text-decoration` – adiciona elementos decorativos ao texto;
 - `text-transform` – define a capitalização do texto;
 - `letter-spacing` – espaço entre os caracteres.
-
-### Box-model
-- `width` define a largura da caixa;
-- `height` define a altura da caixa;
-- `margin` define o espaço à volta da caixa;
-- `padding` define o espaço entre o limite da caixa e o seu conteúdo;
-- `border` define a borda da caixa;
-
 
 ### Posições
 A propriedade posição define o modo como um elemento é posicionado.
@@ -394,9 +393,9 @@ O desenho de um layout é definido por uma grelha ou um grupo de grelhas que ser
 
 ### Técnicas de Layout
 - Propriedade de Float
-– Flexbox
-– Grid
-– Frameworks
+- Flexbox
+- Grid
+- Frameworks
 
 
 ## Bibliografia
