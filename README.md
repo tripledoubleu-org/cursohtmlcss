@@ -17,7 +17,7 @@ Curso dedicado aos princípios básicos de duas linguagens fundamentais do desen
 - [Adicionar o CSS](#adicionar-o-css)
 - [Selectores Classe e ID](#selectores-classe-e-id)
 - [Principais Propriedades](#principais-propriedades)
-– [Unidades](#unidades)
+- [Unidades](#unidades)
 - [Media Queries](#media-queries)
 - [Layouts](#layouts)
 - [Bibliografia](#bibliografia)
@@ -392,10 +392,18 @@ speech | Para leitores de ecrãs
 O desenho de um layout é definido por uma grelha ou um grupo de grelhas que servem de guias para o posicionamento dos diversos elementos numa página.
 
 ### Técnicas de Layout
-- Propriedade de Float
+- Propriedade de Float (desactualizada)
 - Flexbox
 - Grid
 - Frameworks
+
+### Flexbox
+O flexbox é um modelo de layout unidimensional com a capacidade de organizar espacialmente e alinhar elementos.
+
+#### Ver mais informações
+- [https://css-tricks.com/snippets/css/a-guide-to-flexbox/]
+- [https://origamid.com/projetos/flexbox-guia-completo/]
+
 
 
 ## Bibliografia
