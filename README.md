@@ -27,7 +27,7 @@ Curso dedicado aos princípios básicos de duas linguagens fundamentais do desen
 
 ## Introdução ao HTML
 
-[![](https://img.youtube.com/vi/ATtVF4OsE2o/0.jpg)](https://www.youtube.com/watch?v=ATtVF4OsE2o)
+[![](https://img.youtube.com/vi/ATtVF4OsE2o/hqdefault.jpg)](https://www.youtube.com/watch?v=ATtVF4OsE2o)
 
 
 HTML (Hyper Text Markup Language) é uma linguagem de hipertexto e de marcação que descreve a estrutura de uma página web. 
