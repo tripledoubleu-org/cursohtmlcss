@@ -7,7 +7,7 @@ Curso dedicado aos princípios básicos de duas linguagens fundamentais do desen
 - [Chrome](https://www.google.pt/intl/pt-PT/chrome/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-[![](https://img.youtube.com/vi/hkqLCNDI4Vk/0.jpg)](https://www.youtube.com/watch?v=hkqLCNDI4Vk)
+[![](https://img.youtube.com/vi/hkqLCNDI4Vk/maxresdefault.jpg)](https://www.youtube.com/watch?v=hkqLCNDI4Vk)
 
 ### Conteúdos
 - [Introdução ao HTML](#introdução-ao-html)
