@@ -2,7 +2,8 @@
 
 Curso dedicado aos princípios básicos de duas linguagens fundamentais do desenvolvimento web: HTML e CSS.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v=hkqLCNDI4Vk/0.jpg)](https://www.youtube.com/watch?v=v=hkqLCNDI4Vk)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hkqLCNDI4Vk/0.jpg)](https://www.youtube.com/watch?v=hkqLCNDI4Vk)
 
 ### Ferramentas necessárias:
 - [Chrome](https://www.google.pt/intl/pt-PT/chrome/)
