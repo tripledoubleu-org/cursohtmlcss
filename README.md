@@ -3,11 +3,11 @@
 Curso dedicado aos princípios básicos de duas linguagens fundamentais do desenvolvimento web: HTML e CSS.
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hkqLCNDI4Vk/0.jpg)](https://www.youtube.com/watch?v=hkqLCNDI4Vk)
-
 ### Ferramentas necessárias:
 - [Chrome](https://www.google.pt/intl/pt-PT/chrome/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+
+[![](https://img.youtube.com/vi/hkqLCNDI4Vk/0.jpg)](https://www.youtube.com/watch?v=hkqLCNDI4Vk)
 
 ### Conteúdos
 - [Introdução ao HTML](#introdução-ao-html)
@@ -26,6 +26,9 @@ Curso dedicado aos princípios básicos de duas linguagens fundamentais do desen
 - [Bibliografia](#bibliografia)
 
 ## Introdução ao HTML
+
+[![](https://img.youtube.com/vi/ATtVF4OsE2o/0.jpg)](https://www.youtube.com/watch?v=ATtVF4OsE2o)
+
 
 HTML (Hyper Text Markup Language) é uma linguagem de hipertexto e de marcação que descreve a estrutura de uma página web. 
 
