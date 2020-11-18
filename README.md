@@ -415,20 +415,24 @@ O desenho de um layout é definido por uma grelha ou um grupo de grelhas que ser
 ### Flexbox
 O flexbox é um modelo de layout unidimensional com a capacidade de organizar espacialmente e alinhar elementos.
 
-####
-```css
-.flex-container{
-  display: flex;
-}
-```
 
-```html
-<div class="flex-container">
-  <div>Item 1</div>
-  <div>Item 2</div>
-  <div>Item 3</div>
-</div>
-```
+#### Flex Container: 
+- `display: flex;` 
+
+- `flex-direction` 
+- `flex-wrap`  
+- `flex-flow`  
+
+– `justify-content`
+– `align-items`
+– `align-content`
+
+#### Flex Item:
+– `order`                      
+– `flex-grow`
+– `flex-basis`
+– `flex`
+– `align-self`
 
 #### Mais informações
 - [https://css-tricks.com/snippets/css/a-guide-to-flexbox/]
