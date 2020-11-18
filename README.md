@@ -412,11 +412,11 @@ O desenho de um layout é definido por uma grelha ou um grupo de grelhas que ser
 - CSS Grid
 - Frameworks 
 
-### Flexbox
+## Flexbox
 O flexbox é um modelo de layout unidimensional com a capacidade de organizar espacialmente e alinhar elementos.
 
 
-#### Flex Container: 
+### Flex Container: 
 - `display: flex;` 
 
 - `flex-direction` 
@@ -427,28 +427,28 @@ O flexbox é um modelo de layout unidimensional com a capacidade de organizar es
 – `align-items`
 – `align-content`
 
-#### Flex Item:
+### Flex Item:
 – `order`                      
 – `flex-grow`
 – `flex-basis`
 – `flex`
 – `align-self`
 
-#### Mais informações
+### Mais informações
 - [https://css-tricks.com/snippets/css/a-guide-to-flexbox/]
 - [https://origamid.com/projetos/flexbox-guia-completo/]
 
-### CSS Grid 
+## CSS Grid 
 > "The use of the grid as an ordering system is the expression of a certain mental attitude inasmuch as it shows  that the designer conceives his work in terms that are constructive and oriented to the future"
 > – Jusef Muller-Brockmann
 
 O CSS Grid é um modelo de layout bidemencional, através do qual se pode manipular as colunas e as linhas em simultâneo.
 
-#### Mais informações
+### Mais informações
 - [https://css-tricks.com/snippets/css/complete-guide-grid/]
 - [https://www.origamid.com/projetos/css-grid-layout-guia-completo/]
 
-### Frameworks
+## Frameworks
 Um frameworks é um conjunto de regras abstractas que permitem a sua utilização fácil sem que seja necessário reescreve-las sempre que se queira utilizar.
 
 - [Skeleton](http://getskeleton.com/)
