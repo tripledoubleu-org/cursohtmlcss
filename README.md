@@ -423,16 +423,16 @@ O flexbox é um modelo de layout unidimensional com a capacidade de organizar es
 - `flex-wrap`  
 - `flex-flow`  
 
-– `justify-content`
-– `align-items`
-– `align-content`
+- `justify-content`
+- `align-items`
+- `align-content`
 
 ### Flex Item:
-– `order`                      
-– `flex-grow`
-– `flex-basis`
-– `flex`
-– `align-self`
+- `order`                      
+- `flex-grow`
+- `flex-basis`
+- `flex`
+- `align-self`
 
 ### Mais informações
 - [https://css-tricks.com/snippets/css/a-guide-to-flexbox/]
