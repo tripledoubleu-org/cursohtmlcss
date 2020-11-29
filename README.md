@@ -27,7 +27,7 @@ Curso dedicado aos princípios básicos de duas linguagens fundamentais do desen
 
 ## Introdução ao HTML
 
-[![](https://img.youtube.com/vi/ATtVF4OsE2o/maxresdefault.jpg)](https://www.youtube.com/watch?v=ATtVF4OsE2o)
+[![](https://img.youtube.com/vi/-YHtjIY6kUQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=-YHtjIY6kUQ)
 
 
 HTML (Hyper Text Markup Language) é uma linguagem de hipertexto e de marcação que descreve a estrutura de uma página web. 
@@ -170,15 +170,6 @@ Numa lista ordenada cada item é numerado por ordem.
 </ol>
 ````
 
-### Blocos
-Os blocos são elementos que começam sempre numa nova linha e ocupam toda a largura possível.
-
-````
-<header>Header</header>
-<div>Block</div>
-<footer>Footer</footer>
-````
-
 ### Links
 O links são criados utilizando a tag `<a>` que recebe o atributo `href=''` que contém o URL.
 
@@ -193,6 +184,16 @@ As imagens são definidas pela tag `<img>` que recebe o atributo `src=''` que co
 <img width='500' src='<!-- URL da Imagem -->'>
 <img width='500' src='<!-- caminho relativo -->'>
 ````
+
+### Blocos
+Os blocos são elementos que começam sempre numa nova linha e ocupam toda a largura possível.
+
+````
+<header>Header</header>
+<div>Block</div>
+<footer>Footer</footer>
+````
+
 
 # CSS
 
