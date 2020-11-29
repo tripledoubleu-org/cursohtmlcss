@@ -7,7 +7,7 @@ Curso dedicado aos princípios básicos de duas linguagens fundamentais do desen
 - [Chrome](https://www.google.pt/intl/pt-PT/chrome/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-[![](https://img.youtube.com/vi/hkqLCNDI4Vk/maxresdefault.jpg)](https://www.youtube.com/watch?v=hkqLCNDI4Vk)
+[![](https://img.youtube.com/vi/-YHtjIY6kUQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=-YHtjIY6kUQ)
 
 ### Conteúdos
 - [Introdução ao HTML](#introdução-ao-html)
@@ -27,7 +27,7 @@ Curso dedicado aos princípios básicos de duas linguagens fundamentais do desen
 
 ## Introdução ao HTML
 
-[![](https://img.youtube.com/vi/-YHtjIY6kUQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=-YHtjIY6kUQ)
+[![](https://img.youtube.com/vi/LHLtiLr6oTM/maxresdefault.jpg)](https://www.youtube.com/watch?v=LHLtiLr6oTM)
 
 
 HTML (Hyper Text Markup Language) é uma linguagem de hipertexto e de marcação que descreve a estrutura de uma página web. 
@@ -42,6 +42,8 @@ O HTML não é considerado uma linguagem de programação pois não é capaz de 
 Um ficheiro HTML é identificado pela extensão `.html`.
 
 ## Sintaxe do HTML
+
+[![](https://img.youtube.com/vi/Nc1l1oZEnqs/maxresdefault.jpg)](https://www.youtube.com/watch?v=Nc1l1oZEnqs)
 
 ### Tags
 
@@ -77,6 +79,8 @@ Uma página HTML é uma estrutura que se organiza em árvore sendo que as tags p
 ````
 
 ## Estrutura de um documento
+
+[![](https://img.youtube.com/vi/uuiGQcAko0A/maxresdefault.jpg)](https://www.youtube.com/watch?v=uuiGQcAko0A)
 
 Um documento HTML começa com o que chamamos de estrutura base. Esta estrutura é compostas por:
 - Definição do documento (Doctype)
