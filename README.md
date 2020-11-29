@@ -113,6 +113,8 @@ No `<body>`  encontram-se as informações para serem lidas pelo utilizador, que
 
 ## Primeira página
 
+[![](https://img.youtube.com/vi/1miYn5m-X7g/maxresdefault.jpg)](https://www.youtube.com/watch?v=1miYn5m-X7g)
+
 ````
 <!DOCTYPE html>
  
@@ -129,6 +131,8 @@ No `<body>`  encontram-se as informações para serem lidas pelo utilizador, que
 ````
 
 ## Tags essenciais
+
+[![](https://img.youtube.com/vi/zDCyWakgpIE/maxresdefault.jpg)](https://www.youtube.com/watch?v=zDCyWakgpIE)
 
 ### Títulos e subtítulos
 
@@ -182,6 +186,9 @@ O links são criados utilizando a tag `<a>` que recebe o atributo `href=''` que 
 ````
 
 ### Imagens
+
+[![](https://img.youtube.com/vi/Uhei8I5o6Uk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Uhei8I5o6Uk)
+
 As imagens são definidas pela tag `<img>` que recebe o atributo `src=''` que contém o URL da imagem ou o caminho relativo, caso a imagem esteja no nosso servidor.
 
 ````
@@ -190,6 +197,9 @@ As imagens são definidas pela tag `<img>` que recebe o atributo `src=''` que co
 ````
 
 ### Blocos
+
+[![](https://img.youtube.com/vi/FUccstmdnpc/maxresdefault.jpg)](https://www.youtube.com/watch?v=FUccstmdnpc)
+
 Os blocos são elementos que começam sempre numa nova linha e ocupam toda a largura possível.
 
 ````
