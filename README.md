@@ -211,12 +211,14 @@ Os blocos são elementos que começam sempre numa nova linha e ocupam toda a lar
 
 # CSS
 
-## Introdução ao CSS
+## Introdução e sintaxe do CSS
+
+[![](https://img.youtube.com/vi/ZpYlFbsl1eY/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZpYlFbsl1eY)
+
 CSS (Cascading Style Sheets) é uma extensão do HTML que permite manipular os estilos de um documento ao dizer como elementos devem aparecer no browser.
 
 Deste modo, o CSS define o design e permite que o website seja responsivo (que se adapte aos diferentes tamanhos de ecrã).
 
-## Sintaxe do CSS
 Uma regra em CSS é definida por um selector e por um bloco de declarações. Cada declaração é composta por uma propriedade e por um valor atribuído.
 
 ````
@@ -227,6 +229,8 @@ selector {
 ````
 
 ## Adicionar o CSS
+[![](https://img.youtube.com/vi/WjnKhY715SA/maxresdefault.jpg)](https://www.youtube.com/watch?v=WjnKhY715SA)
+[![](https://img.youtube.com/vi/QgxQrVbvLZ0/maxresdefault.jpg)](https://www.youtube.com/watch?v=QgxQrVbvLZ0)
 Podemos adicionar o CSS de três formas diferentes:
 - inline
 - interno
