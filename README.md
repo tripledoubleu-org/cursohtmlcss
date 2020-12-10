@@ -211,7 +211,7 @@ Os blocos são elementos que começam sempre numa nova linha e ocupam toda a lar
 
 # CSS
 
-## Introdução e sintaxe do CSS
+## Introdução e sintaxe CSS
 
 [![](https://img.youtube.com/vi/ZpYlFbsl1eY/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZpYlFbsl1eY)
 
@@ -228,10 +228,10 @@ selector {
 }
 ````
 
-## Adicionar o CSS
+## Adicionar CSS
 [![](https://img.youtube.com/vi/WjnKhY715SA/maxresdefault.jpg)](https://www.youtube.com/watch?v=WjnKhY715SA)
 [![](https://img.youtube.com/vi/QgxQrVbvLZ0/maxresdefault.jpg)](https://www.youtube.com/watch?v=QgxQrVbvLZ0)
-Podemos adicionar o CSS de três formas diferentes:
+Podemos adicionar o CSS ao HTML de três formas diferentes:
 - inline
 - interno
 - externo (preferencial)
@@ -349,6 +349,13 @@ A propriedade posição define o modo como um elemento é posicionado.
 - `position: fixed;`  posição relativa à viewport;
 - `position: sticky;` posição relativa à posição do scroll;
 
+### Pseudo-classes
+As pseudo-classes servem para atribuir estilos consoante o estado ou a posição de um elemento.
+
+- `:hover` `:focus` `:active` alteram consoante a interação do utilizador com determinado elementos;
+- `:link` `:visited` alteram consoante a navegação;
+- `:first-child` `:last-child` `:nth-child()` `:nth-last-child()` alteram consoante a posição relativa do elemento;
+- `:not()` exclui os estilos desse elemento;
 
 ## Unidades
 
