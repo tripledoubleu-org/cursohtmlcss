@@ -279,7 +279,7 @@ Exemplo se o ficheiro CSS (style.css) estiver na mesma pasta que o ficheiro HTML
 
 ## Selectores Classe e ID
 [![](https://img.youtube.com/vi/CM_VmUaUjWA/maxresdefault.jpg)](https://www.youtube.com/watch?v=CM_VmUaUjWA)
-[![](https://img.youtube.com/vi/TDtFiwslXfg&t/maxresdefault.jpg)](https://www.youtube.com/watch?v=TDtFiwslXfg&t)
+[![](https://img.youtube.com/vi/TDtFiwslXfg/maxresdefault.jpg)](https://www.youtube.com/watch?v=TDtFiwslXfg)
 Além das referências das tags podemos identificar os elementos de uma página pela sua "classe" ou "id".
 
 ### Classes
