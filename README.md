@@ -331,7 +331,7 @@ O selector "id" é semelhante ao selector "classe" mas deve ser utilizado para s
 - `margin` define o espaço à volta da caixa;
 - `padding` define o espaço entre o limite da caixa e o seu conteúdo;
 - `border` define a borda da caixa;
-- `box-sizing` define se no calculo da altura e largura estão incluídas as `borders` e o `padding`;
+- `box-sizing` define se no calculo da altura e da largura estão incluídas as bordas e o padding;
 
 ### Formatacão de texto
 - `font-family` altera a fonte;
