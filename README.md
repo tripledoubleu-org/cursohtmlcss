@@ -278,6 +278,8 @@ Exemplo se o ficheiro CSS (style.css) estiver na mesma pasta que o ficheiro HTML
 
 
 ## Selectores Classe e ID
+[![](https://img.youtube.com/vi/CM_VmUaUjWA/maxresdefault.jpg)](https://www.youtube.com/watch?v=CM_VmUaUjWA)
+[![](https://img.youtube.com/vi/TDtFiwslXfg&t/maxresdefault.jpg)](https://www.youtube.com/watch?v=TDtFiwslXfg&t)
 Além das referências das tags podemos identificar os elementos de uma página pela sua "classe" ou "id".
 
 ### Classes
@@ -380,8 +382,6 @@ em | Unidade relativa ao tamanho da fonte do elemento
 rem | Unidade relativa ao tamanho da fonte da root (html)
 vw | Unidade relativa à largura da viewport. 1vw = 1/100 da largura da viewport
 vh | Unidade relativa à altura da viewport. 1vh = 1/100 da altura da viewport
-vmax | Unidade relativa à dimensão máxima da viewport. 1vmax = 1/100 da dimensão máxima da viewport
-vmin | Unidade relativa à dimensão minima da viewport. 1vmin = 1/100 da dimensão minima da viewport
 
 ## Media Queries
 As media queries servem para definir diferentes regras consoante o tipo de media ao captarem as capacidade do dispositivo. 
@@ -407,14 +407,14 @@ speech | Para leitores de ecrãs
 
 ### CSS para diferentes tamanhos de ecrãs
 `````
-// ecrãs até 320px
-@media screen and (max-width: 320px) {
+// ecrãs até 576px
+@media screen and (max-width: 577px) {
  h1 {
   font-size: 20px;
  }
 }
-// ecrãs até 980px
-@media screen and (min-width: 980px) {
+// ecrãs até 768px
+@media screen and (min-width: 769px) {
  h1 {
    font-size: 15px;
  }
