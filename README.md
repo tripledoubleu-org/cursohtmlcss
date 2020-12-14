@@ -379,10 +379,10 @@ As unidades relativas têm tamanhos escaláveis consoante o tamanho da janela ou
 Unidades Relativas | Descrição 
 --- | ---
 % | Percentagem relativa ao valor da propriedade no elemento pai
-em | Unidade relativa ao tamanho da fonte do elemento
-rem | Unidade relativa ao tamanho da fonte da root (html)
 vw | Unidade relativa à largura da viewport. 1vw = 1/100 da largura da viewport
 vh | Unidade relativa à altura da viewport. 1vh = 1/100 da altura da viewport
+em | Unidade relativa ao tamanho da fonte do elemento
+rem | Unidade relativa ao tamanho da fonte da root (html)
 
 ## Media Queries
 As media queries servem para definir diferentes regras consoante o tipo de media ao captarem as capacidade do dispositivo. 
