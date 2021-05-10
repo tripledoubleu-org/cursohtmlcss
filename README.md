@@ -196,6 +196,20 @@ As imagens são definidas pela tag `<img>` que recebe o atributo `src=''` que co
 <img width='500' src='<!-- caminho relativo -->'>
 ````
 
+### Tags de Formatação de Texto
+- `<b>` negrito
+- `<strong>` forte
+- `<i>` itálico
+- `<i>` enfatizado
+- `<big>` grande
+- `<small>` pequeno
+- `<sub>` subscrito
+- `<sup>` superescrito
+- `<ins>` inserido
+- `<del>` cancelado
+- `<u>` sublinhado [esta tag está desaprovado, recomenda-se utilizar os estilos]
+
+
 ### Blocos
 
 [![](https://img.youtube.com/vi/FUccstmdnpc/maxresdefault.jpg)](https://www.youtube.com/watch?v=FUccstmdnpc)
