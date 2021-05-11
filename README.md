@@ -200,7 +200,7 @@ As imagens são definidas pela tag `<img>` que recebe o atributo `src=''` que co
 - `<b>` negrito
 - `<strong>` forte
 - `<i>` itálico
-- `<i>` enfatizado
+- `<em>` enfatizado
 - `<big>` grande
 - `<small>` pequeno
 - `<sub>` subscrito
@@ -208,6 +208,20 @@ As imagens são definidas pela tag `<img>` que recebe o atributo `src=''` que co
 - `<ins>` inserido
 - `<del>` cancelado
 - `<u>` sublinhado [esta tag está desaprovado, recomenda-se utilizar os estilos]
+
+````
+<b>negrito</b>
+<strong>forte</strong>
+<i>itálico</i>
+<em>enfatizado</em>
+<big>grande</big>
+<small>pequeno</small>
+<sub>subscrito</sub>
+<sup>superescrito</sup>
+<ins>inserido</ins>
+<del>cancelado</del>
+<u>sublinhado</u>
+````
 
 
 ### Blocos
