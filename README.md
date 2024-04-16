@@ -72,10 +72,10 @@ Algumas tags aceitam atributos que permitem adicionar propriedades.
 Uma página HTML é uma estrutura que se organiza em árvore sendo que as tags podem ter pais e filhos.
 
 ````
-<tagPai>
-    <tagFilho>
-    </tagFilho>
-</tagPai>
+<tagParent>
+    <tagChild>
+    </tagChild>
+</tagParent>
 ````
 
 ## Estrutura de um documento
